@@ -1,10 +1,18 @@
 # pricesr
 
 ## Overview
-This repository is intended to host the code created by the UN task force.
+This repository is intended to host the R code created by the UN task force.
 
 ## Contributing
 Some guidelines...
+
+## Naming Conventions
+| Variable name       | Description    |  Class/Type    |
+| ------------- |-------------|  -----|
+| p      | price | double | 
+| q      | quantity      |  double | 
+| v | value, ie. p* q      | double | 
+| t | period, eg. day, week, month or quarter     |  Date | 
 
 ## Structure
 ```
