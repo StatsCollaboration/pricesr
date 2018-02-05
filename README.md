@@ -11,7 +11,8 @@ Some guidelines...
 | ------------- |-------------|  -----|
 | p      | price | double | 
 | q      | quantity      |  double | 
-| v | value, ie. p* q      | double | 
+| v | value, ie. p* q      | double |
+| prod_id | value which uniquely identifies the product, eg. UPC, SKU, GTIN    | character | 
 | t | period, eg. day, week, month or quarter     |  Date | 
 
 ## Structure
