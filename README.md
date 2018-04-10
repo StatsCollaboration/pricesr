@@ -1,7 +1,7 @@
 # pricesr
 
 ## Overview
-This repository is intended to host the R code created by the UN task force.
+Geary-Khamis code / revised and real-time indices and graphical comparison / Ken Van Loon (ken.vanloon@economie.fgov.be) 
 
 ## Contributing
 Some guidelines...
