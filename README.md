@@ -1,7 +1,7 @@
 # CLIP
 
 ## Overview
-This repository is intended to host the python code for the construction of the CLIP Index. Developed by Matt Mayhew - Email Matthew.Mayhew@ons.gov.uk if help needed 
+This repository is intended to host the python code for the construction of the CLIP Index. Developed by Matt Mayhew - Email Matthew.Mayhew@ons.gov.uk if help needed. [A description of the method can be found here](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/researchindicesusingwebscrapedpricedata/clusteringlargedatasetsintopriceindicesclip) with some properites explored [here](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber12acomparisonofindexnumbermethodologyusedonukwebscrapedpricedata) 
 
 ## Contributing
 Some guidelines...
